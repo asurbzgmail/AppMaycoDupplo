@@ -1,0 +1,15 @@
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\bin\Debug\net6.0\AppMaycoDupplo.exe
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\bin\Debug\net6.0\AppMaycoDupplo.deps.json
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\bin\Debug\net6.0\AppMaycoDupplo.runtimeconfig.json
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\bin\Debug\net6.0\AppMaycoDupplo.dll
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\bin\Debug\net6.0\AppMaycoDupplo.pdb
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\AppMaycoDupplo.csproj.AssemblyReference.cache
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\AppMaycoDupplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\AppMaycoDupplo.AssemblyInfoInputs.cache
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\AppMaycoDupplo.AssemblyInfo.cs
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\AppMaycoDupplo.csproj.CoreCompileInputs.cache
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\AppMaycoDupplo.dll
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\refint\AppMaycoDupplo.dll
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\AppMaycoDupplo.pdb
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\AppMaycoDupplo.genruntimeconfig.cache
+C:\Users\carlos.bustillos\OneDrive\Asur\Proyectos\Entrevistas\Mercado Mayco\AppMaycoDupplo\AppMaycoDupplo\obj\Debug\net6.0\ref\AppMaycoDupplo.dll
